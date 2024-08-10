@@ -2,9 +2,9 @@
 //23070123102
 //printing hello world 
 #include<iostream>
-using namespace std;//standarad namespace in c++ library where classes objects and all other are declared
-int main()//predefined function used in c++
+using namespace std;
+int main()
 {
-  cout<<"Hello world"; // printing hello world 
+  cout<<"Hello world";  
   return 0;  
 }
