@@ -5,9 +5,9 @@
 using namespace std;
 int main()
 {
-   int num; // declaing a variable num as integer type
+   int num; 
    cout<<"Enter a number: ";
-   cin>>num;//taking the input from user in num 
-   cout<<"The number inputed by you is: "<<num;//printing the number 
+   cin>>num; 
+   cout<<"The number inputed by you is: "<<num;r 
    return 0;
 }
