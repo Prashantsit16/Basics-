@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     int n1,n2,sum,difference,multiplication;
-    float division; // because it can have decimal values which are supported by float
+    float division; 
     cout<<"Enter 1st number: ";
     cin>>n1;
     cout<<"Enter 2nd number: ";
