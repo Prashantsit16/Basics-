@@ -12,14 +12,12 @@ User input and output in C++ are handled using the cin and cout streams from the
 Procedure:
 Include Required Headers:
 
-cpp
-Copy code
+
 #include <iostream>
 using namespace std;
 Define Main Function:
 
-cpp
-Copy code
+
 int main() {
     // Declare variables
     int num1, num2;
