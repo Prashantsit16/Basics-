@@ -9,6 +9,8 @@ Basic arithmetic operations in C++ are fundamental for performing calculations:
 2. Difference: Subtracts one number from another.
 User input and output in C++ are handled using the 'cin' and cout streams from the iostream library. cin reads input from the keyboard, while cout writes output to the console. Properly managing these operations allows for interactive programs that respond to user-provided data.
 ## Output: 
+![Screenshot 2024-09-05 152424](https://github.com/user-attachments/assets/9418bc89-6f90-4530-965d-752a61393a80)
+![Screenshot 2024-09-05 152436](https://github.com/user-attachments/assets/52c4209c-f165-4ea0-b772-fb55797d9cbf)
 
 ## Conclusion:
 The implementation of basic arithmetic operations in C++—sum and difference—demonstrates foundational programming concepts. Handling user input with cin and displaying results with cout enables interactive applications. This practice reinforces essential skills in data manipulation and user interaction. The example effectively showcases these operations and their practical applications.
